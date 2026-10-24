@@ -1,0 +1,9 @@
+# Compiled output
+out/
+
+# Runtime data
+data/
+
+# OS
+.DS_Store
+Thumbs.db
